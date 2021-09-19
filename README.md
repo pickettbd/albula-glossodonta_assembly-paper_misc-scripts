@@ -11,4 +11,4 @@ These scripts are not necessarily connected to eachother. No order is implied ab
 ## Citation
 If you use this code in some part or way, please cite our paper:
 >Pickett BD, Talma S, Glass JR, Ence D, Cowley PD, Ridge PG, Kauwe JSK. 2021. Genome Assembly of the Roundjaw Bonefish (_Albula glossodonta_), a Vulnerable Circumtropical Sportfish. _bioRxiv_. DOI: [10.1101/2021.09.10.458299](https://doi.org/10.1101/2021.09.10.458299).
-<!-->Name. Name. ... Name. 2020. Title. _journal_. Vol.(Iss.):pages.-->
+<!-- >Name. Name. ... Name. 2020. Title. _journal_. Vol.(Iss.):pages.-->
